@@ -1,0 +1,25 @@
+.counter-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.counter-value {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.counter-buttons {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.counter-note {
+    font-size: 12px;
+    color: #666;
+    margin-top: 10px;
+}
