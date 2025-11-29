@@ -4,6 +4,14 @@
 
 ---
 
+## 🎯 INICIO RÁPIDO
+
+**¿Primera vez aquí?** 👉 Abre **[EMPEZAR_AQUI.md](./EMPEZAR_AQUI.md)** o **[INDICE.md](./INDICE.md)** para ver rutas de aprendizaje adaptadas a tu nivel.
+
+**¿Necesitas consultar algo específico?** 👉 Revisa la tabla de contenidos abajo.
+
+---
+
 ## 📋 TABLA DE CONTENIDOS
 
 1. [¿Qué es React?](#-qué-es-react)
@@ -30,9 +38,9 @@
 **React** es una biblioteca de JavaScript para crear interfaces de usuario (páginas web interactivas). 
 
 **¿Por qué es popular?**
-- ✅ **Componentizado**: Divides tu aplicación en piezas pequeñas y reutilizables.
-- ✅ **Reactivo**: Cuando cambian tus datos, la página se actualiza automáticamente.
-- ✅ **Comunidad gigante**: Hay muchos recursos, tutoriales y ayuda disponible.
+- Componentizado: Divide la aplicación en piezas pequeñas y reutilizables
+- Reactivo: Actualización automática cuando cambian los datos
+- Comunidad grande: Muchos recursos y ayuda disponible
 
 **¿Qué es TypeScript?**
 - Es JavaScript con "superpoderes". Te ayuda a detectar errores antes de ejecutar el código.
@@ -40,9 +48,9 @@
 
 ---
 
-## 📦 REQUISITOS PREVIOS
+## Requisitos
 
-### ✅ Lo que NECESITAS tener instalado:
+### Instalación necesaria:
 
 1. **Node.js** (versión 18 o superior)
 2. **npm** (viene con Node.js)
